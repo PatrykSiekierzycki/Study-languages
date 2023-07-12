@@ -1,0 +1,482 @@
+1=imply=sugerować
+2=initially=początkowo
+3=obscure=mało znany, niejasny
+4=overgrown=zarośnięty, zapuszczony
+5=belief=wiara, przekonanie
+6=obstacle=przeszkoda
+7=thorn=kolec, cierń
+8=doubt=wątpić, wątpliwość
+9=tempting=kuszący
+10=bend=zakręt, łuk, schylać się ,zginać (się)
+11=persistent=uporczywy, utrzymujący (się), uparty, wytrwały
+12=thoroughly=dokładnie, skrupulatnie, gruntownie ,dogłębnie
+13=assured=pewny siebie
+14=encounter=napotkać,natknąć_się_na,spotykać,spotkanie
+15=overcome=przezwyciężać,zmożony,przygnieciony
+16=foremost=czołowy, główny, najważniejszy
+17=purpose=cel
+18=throughout=przez cały czas,wszędzie, cały, po całym
+19=attitude=postawa, stosunek, stanowisko
+20=committed=oddany, zobowiązany
+21=intrinsic=naturalny, nieodłączny, wrodzony
+22=particular=konkretny, szczególny, wybredny
+23=relevant=istotny, znaczący, stosowny
+24=consciousness=przytomność, świadomość
+25=therefore=z tego powodu, dlatego (też)
+26=attend=uczęszczać na, być obecnym, uczestniczyć, uczęszczać, zwracać uwagę
+27=stroke=udar, ruch, pociągnięcie, uderzenie
+28=counsellor=psycholog, doradca
+29=state=stan
+30=regarding= w związku z, odnośnie
+31=wade=brodzić
+32=association=stowarzyszenie, zrzeszenie, związek
+33=tin=cyna
+34=influence=wpyw, oddziaywanie
+35=impedes=utrudnia
+36=doubt=wątpić, powątpiewać
+37=dispel=rozwiać
+38=persistence=trwałość, wytrwałość, uporczywość
+39=fulfillment=spełnienie
+40=imperceptibly=niepostrzeżenie
+41=perceive=postrzegać, dostrzegać
+42=glint=migotanie
+43=wrinkle=zmarszczka
+44=outset=początek
+45=novice=nowicjusz/ka
+46=minor=drobny, pomniejszy
+47=hike=wycieczka piesza, wędrówka
+48=receive=otrzymywać, przyjmować, odbierać
+49=cubicle=kabina, komórka
+50=recent=niedawny, ostatni
+51=estate=posiadłość, majątek, osiedle, tereny
+52=foster=stymulować, popierać, rozwijać
+53=stir=mieszać, poruszyć (się), wywoływać (emocje)
+54=struggle=starać się, zmagać się, szamotać się
+55=immense=ogromny
+56=exhibit=wystawiać, okazywać, eksponat
+57=notio=pojęcie, koncepcja, pogląd
+58=inherently=z natury
+59=profoundly=dogłębnie
+60=deed=czyn, uczynek
+61=bolster=podbudowywać, umacniać, podgłówek, wałek (poduszka), podeprzeć
+62=spoil=zepsuć, rozpieszczać
+63=assumption=założenie
+64=suspicious=nieufny, podejrzliwy, podejrzany
+65=venerate=okazywać szacunek
+66=resentment=rozżalenie, oburzenie, uraza
+67=emerge=wyłaniać się, okazywać się, wychodzić na jaw, wychodzić
+68=embedded=osadzony, tkwiący, wbity, zakorzeniony
+69=inadvertently=nieumyślnie
+70=engaged=zaręczony, zajęty
+71=encouragement=zachęta
+72=principle=zasada, reguła
+73=excess=nadmiar
+74=throw up=zwymiotować
+75=threw up=zwymiotować, rzucać
+76=turn down=odrzucać, odmawiać
+77=hourglass=klepsydra
+78=attitude=postawa, stosunek, nastawienie
+79=conceal=ukryć, kryć, maskować, taić
+80=tatter=rozbić, łachman
+81=bare= odsłonić, obnażać, odkryć, wyszczerzać
+82=hold back=powstrzymywać się
+83=flawless=doskonały, bez skazy
+84=avenge=pomścić, mścić
+85=pretending=udawać
+86=drag out=przeciągać, wywlec
+87=fawned over=łasić sie
+88=scowl=groźne spojrzenie, pochmurnieć, patrzeć spod łba
+89=teasing=przekomarzanie się, dokuczanie
+90=condescension=łaskawość
+91=humiliated=upokorzony
+92=knack=smykałka, talent, dryg
+93=standing out=wyróżniać się, odznaczyć
+94=coveted=upragniony
+95=ordinary=zwykły
+96=decent=przyzwoity
+97=fuss=zamieszanie
+98=concerned=zaniepokojony, zainteresowany
+99=broth=rosół, bulion
+100=messed up=pomieszane
+101=vacate=zwalniać
+102=skit=skecz
+103=endure=wytrzymać, znieść, przetrwać, wytrwać, dotrwać
+104=scalding=oparzenie
+105=took over=przejąć
+106=dense=gęsty, zwarty, tępy, zbity
+107=bully=zastraszyć, znęcać się
+108=shore=wybrzeże
+109=rough=surowe, ostry, szorstki
+110=insulted=znieważony
+111=depiction=opis
+112=dazzling=ośliepiający
+113=misleading=zwodniczy
+114=ace=as
+115=suspended=zawieszony, wstrzymany
+116=cinch=szczypta
+117=arose=powstał (np. problem)
+118=substitute=zastąpić
+119=supposed=przypuszczalny, domniemany, rzekomy
+120=rejoice=radować się, cieszyć
+121=powerhouse=elektrownia
+122=retires=przechodzi na emeryturę
+123=stepped in=wkroczył
+124=engulfed=pochłonięty
+125=pretend=udawać, symulować
+126=struggle=walka, batalia, bój
+127=subbing in=podporządkować się
+128=throwing off=wyrzucać
+129=grip=chwyt
+130=spineless=bezkręgowy
+131=wishful thinking=pobożne życzenie
+132=restore=przywrócić, odbudować, odzyskać
+133=anxiety=lęk, niepokój, obawa
+134=barring=z wyjątkiem, oprócz
+135=overdid=przesadził, przedobrzył
+136=assured=zapewniony
+137=charred=zwęglony, przypalony
+138=obnoxious=nieprzyjemny, nieznośny
+139=granted=udzielony, nadany
+140=encompassed=objęty, zawierać, ogarnać, otaczać
+141=affecting=wpływający
+142=regardless=bez względu, bez względu na, nie zważając na
+143=wiping=wycieranie
+144=gainfully employed=zatrudniony zarobkowo
+145=tremendous=ogromny, olbrzymi
+146=shuttered=zamknięte
+147=extortion=wymuszenie
+148=acorn=żołądź
+149=charm=czar, urok, amulet, wdzięk, powab
+150=sowed=zasiane
+151=reap=zbierać
+152=blatantly=rażąco
+153=jerk=kretyn, głupiec
+154=dependable=niezawodny, pewny, rzetelny
+155=worse off=w gorszej sytuacji
+156=petty=drobiazgowy, drobny, małostkowy
+157=lump in=wtrącać się
+158=overall=ogólnie
+159=well off=bogaty, zamożny
+160=haughty=wyniosły, dumny, butny
+161=countless=niezliczony
+162=put out= zgasić, ugasić
+163=throwing of=wyrzucać
+164=assessment=ocena, wymiar
+165=turned out=okazało się
+166=culprit=winowajca, sprawca, winny
+167=spew=rzygać, wymiotować
+168=come up=wchodzić na górę, przyjechać, sięgać
+169=wandering=wędrowny, wędrujący
+170=apron=fartuch
+171=debut=debiut
+172=peeking out=zerkać
+173=revive=wskrzesić, orzywiać, odradzać
+174=dwelling=mieszkanie
+175=witnesses=świadkowie
+176=deeds=czyny
+177=squatting=przycupnięty
+178=grudge=żal, uraza
+179=fired up=rozpalony, wybuchać gniewem
+180=drove out=wyjechał, wypędzać
+181=lame=kiepski
+182=outlet=wylot
+183=stingy=skromny, chytry
+184=swindler=oszust
+185=caved=zawalony
+186=back down=wycofać się
+187=incinerate=palić, spalić, spopielić
+188=indulge=pobłażać, rozkaprysić, grymasić
+189=runt=karzeł
+190=rotten=zgniły
+191=residual=pozostały, szczątkowy
+192=nasty=paskudny, przykry, nieprzyjemny, brzydki
+193=anticipated=oczekiwany
+194=spill=rozlać, wylać, oblać, rozsypać, osypać, upadek
+195=preoccupied=zaabsorbowany
+196=swamped=zalane, zalać, zatopić
+197=pen=kojec, długopis, zagroda
+198=gross up=obrzydzić
+199=retirement=przejście na emeryturę, wycofanie się
+200=spread=rozpiętość, rozpowszechnienie, rozwój, rozsiew
+201=feathers=pióra, pierze, upierzenie
+202=confine=ograniczać, zamknąć, granica
+203=sophisticated=wyrafinowany, wyszukany
+204=bovines=bydło
+205=tossed=rzucony, podrzucać, rzucać
+206=scrawny=chudy, wychudzony, wychudły
+207=stood=stał
+208=primates=naczelne ssaki
+209=mean=mieć na myśli, podły, złośliwy, nikczemny
+210=ongoing=bierzący
+211=loot=łup, grabież, łupienie, szabrować, ograbić, plądrować, złupić, itp.
+212=menace=groźba, niebezpieczeństwo, groza, zagrażać, grozić, straszyć
+213=sneak out=wymknąć się
+214=envelop=osnuć, spowić, owinąć, okryć
+215=plot-driven=napędzany fabułą
+216=hunch=przeczucie, garb, pajda, kroma, garbić, zgarbić się
+217=chore=obowiązek, robota
+218=wears out=zużywa się, zniszczyć, podrzeć, wyczerpać fizycznie
+219=spread out=rozrzucić, rozwlec się
+220=exposition=ekspozycja, wystawa
+221=throw in=wrzucić, wtrącić
+222=skim=przejrzeć
+223=tedious=żmudny, nudny, marudny
+224=limp=utykać, kuleć, kuśtykać
+225=unease=niepokój
+226=slanted=pochyły
+227=went out=wyszedł, wychodzić
+228=bothered=zaniepokojony
+229=bother=zawracać głowę, niepokoić, zanudzać, dręczyć
+230=inconsistent=niespójny, niezgodny, sprzeczny
+231=kowtowing=kłanianie się
+232=justify=uzasadniać, usprawiedliwiać, wytłumaczyć, justować
+233=abruptly=nagle
+234=resolving=rozwiązanie
+235=favor=przychylność, sprzyjać, faworyzować, popierać
+236=pal=kumpel, towarzysz, przyjaciel, kompan
+237=henchmen=poplecznicy, giermek, pachołek, zwolennik
+238=mouthy=pyskaty
+239=goner=umarlak
+240=inexcusable=niewybaczalny, nieprzebaczalny
+241=screw you=wal się (powiedzonko, nieuprzejme)
+242=vending machines=automat, automat do sprzedaży
+243=surpassed=przekroczony, przewyższać, przerastać
+244=embodiment=wcielenie, uosobienie, personifikacja
+245=stare=gapić się, wpatrywać, wytrzeszcz
+246=harpy=harpia
+247=run off=zwiać
+248=makeover=metamorfoza
+249=move on=pójść dalej
+250=flashy=jaskrawy, krzykliwy, błyskotliwy
+251=whim=kaprys, fanaberia, zachcianka
+252=principles=zasady
+253=things up=wszystko w porządku
+254=unawares=znienacka, niespodziewanie, nieoczekiwanie
+255=muster up=zebrać się
+256=kill off=wybić
+257=nerve -racking=denerwójące
+258=get along=dawać sobie radę
+259=homeroom=lekcja wychowawcza
+260=hesitant=niezdecydowany, niepewny, wahający się
+261=reticent=małomówny
+262=establish=tworzyć, ustanawiać, ustalać
+263=admit=przyznawać, przyznać
+264=offend=obrazić
+265=deliquent=przestępca
+266=glance=zerknąć, spojrzenie, rzut oka, rzucać okiem, spojrzeć
+267=neatly=starannie
+268=anxiety=lęk, niepokój, obawa, trwoga
+269=flabbergasted=zdumiony, oszołomiony, bardzo zaskoczony, osłupiały
+270=saw=piła
+271=ashore=na brzeg, na ląd
+272=snooping=wścibianie nosa
+273=elaborate=wyszukany, opracować, zbadać
+274=bent=zgięty, zakrzywiony
+275=wither away=zwiędnąć
+276=quirks=dziwactwa
+277=acquainted=obeznany
+278=hindrance=przeszkoda, zawada, bariera
+279=servile=służalczy, niewolniczy
+280=misleading=zwodniczy, omylny
+281=despise=pogardzać, gardzić
+282=shriveled=zeschnięty
+283=hue=odcień, barwa, kolor
+284=exaggeration=przesada, wyolbrzymienie, przejaskrawienie, przesadzenie
+285=famished=głodny
+286=devious=przebiegły
+287=gross=obrzydliwy, gruby, wulgarny, grubiański
+288=regard=szacunek, wzgląd, uważać, traktować
+289=shred=strzęp, odrobina, krzta, strzępić, postrzępić, szatkować
+290=dignity=godność, dostojność
+291=crude=surowy, nieokiełznany
+292=purring=mruczenie, mruczeć, pomrukiwać, zamruczeć
+293=juxtaposition=zestawienie
+294=gross out= obrzydzić
+295=dreaded=przerażający
+296=dread=bać się, obawiać się, lękać się
+297=prompt=podpowiedź, skłonić, pobudzać, namówić, natychmiastowy
+298=think up=wymyślać
+299=flaunts=pyszni się, afiszować, obnosić, popisywać
+300=wealth=bogactwo, zasobność, majątek, zamożność
+301=harassed=nękany
+302=haras=nękać, niepokoić, prześladować, dokuczać
+303=forensic=kryminalistycznych
+304=bear=znieść
+305=peasant=chłop, wieśniak
+306=disbelive over=nie dowierzać
+307=merely=zaledwie, jedynie, tylko, po prostu
+308=drawn out=wyciągane
+309=flashback=wspomnienie
+310=butler=lokaj
+311=infants=niemowlęta
+312=clerks=urzędnicy
+313=boredom=nuda
+314=lackey=lokaj, służalec
+315=pissed off=wkurzony
+316=withdraw=wycofać, odstąpić
+317=rid=eliminować, pozbyć się
+318=spouting=tryskać, chlusnąć, buchać
+319=spare=zaoszczędź
+320=committee=komisja, komitet, rada
+321=disgruntlement=niezadowolenie
+322=excluded=wyłączony
+323=stirred=wstrząśnięty(np. ktoś przez jakieś wydarzenie)
+324=accusation=zarzut
+325=procure=zdobyć
+326=straw=słoma, słomka
+327=participate=brać udział, uczestniczyć
+328=draw=ciągnąć, wylosować
+329=excuse=wymówkę, usprawiedliwienie, wytłumaczenie
+330=lurking=przyczajony
+331=bickering=kłótnie, sprzeczanie się
+332=willing=chętny, skłonny
+333=insult=znieważenie, zniewaga, obraza, obelga
+334=scramble=wdrapywać się, rozchwytać
+335=hoodlum=chuligan
+336=bidding=licytacja, rozkaz
+337=relief=ulga
+338=glance=zerknąć, rzut oka, spojrzeć, wypolerować
+339=proceed=przystępować, postępować
+340=objection=sprzeciw, zarzut, obiekcja
+341=earn=zarobić, zasłużyć
+342=demeanor=postawa, postępowanie
+343=prop=rekwizyt
+344=context=kontekst
+345=thou=ty
+346=on cloud nine=w siódmym niebie
+347=sketch=naszkicować, szkic, rysunek
+348=merry=wesoły
+349=filth=brud
+350=ill-tempered=rozdrażniony
+351=enrage=rozwcieczony
+352=immensely=ogromnie, niezmiernie
+353=mortar=moździeż
+354=brim=być pełnym czegoś
+355=memento=pamiątka
+356=pound=walić
+357=upset=zmartwiony, zdenerwowany
+358=premise=przesłanka
+359=squire=giermek
+360=choke=zadławić się, dusić, zakrztusić
+361=chant=skandować, intonować, hasło, pieśń, recytować śpiewnie,
+362=roar=ryczeć, ryk
+363=dodge=unikać, przemykać, wykręcać się od, unik
+364=probe=wnikać, badać, zagłębiać się, sonda (narzędzie, używane przez lekarzy)
+365=marvellous=cudowny, zdumiewający, wspaniały
+366=indubitably=niewątpliwie
+367=proper=właściwy, odpowiedni, porządny, prawdziwy, stosowny, dokładny
+368=miserable=nieszczęśliwy, nędzny, podły
+369=encouragement=zachęta
+370=kidnap=porwanie, uprowadzenie
+371=fiendish=okrutny, piekielnie trudny, podły, szatański
+372=fancy=luksusowy, fantazyjny, wymyślny, ozdobny, mieć ochotę na
+373=tie=krawat, remis, wiązać, więź, związek
+374=whine=jęczeć, marudzić, skomleć
+375=bribe=przekupić
+376=rehearsal=próba (przed przedstawieniem)
+377=commotion=zamieszanie
+378=vicious=agresywny, brutalny, złośliwy, zły
+379=dawdle=ociągać się, guzdrać się
+380=greet=witać, przyjmować
+381=slip out=wypsnąć się, wymykać się
+382=court=sąd, boisko, kort, dwór, zabiegać o, zalecać się (do), być narzeczonym
+383=rebuff=odrzucać, odtrącać
+384=chase=gonić, polować na, pościg, ścigać, odgonić
+385=lifespan=długość życia, żywotność
+386=head off=wychodzić, wyruszać
+387=sham=fikcja, oszustwo, lipa, lipny, udawać
+388=scarecrow=strach na wróble
+389=eggplant=bakłażan
+390=cheers=na zdrowie, dzięki
+391=brand=marka, odmiana
+392=brass knuckles=kastet
+393=awkward=kłopotliwy, niezręczny, krępujący
+394=hurdle=przeszkoda, bariera, skakać, przez (płotki)
+395=letdown=rozczarowanie, zawód
+396=hog=wieprz, okupować, blokować, przetrzymywać
+397=spotlight=jupiter, reflektor, centrum uwagi
+398=come off=powieść się, wypalić
+399=odd=dziwny, okazjonalny, różny
+400=invincible=niezwyciężony
+401=impersonate=podawać się za, naśladować, parodiować
+402=lens=soczewka, obiektyw
+403=fret=gryźć się, dręczyć się
+404=omit=pomijać, opuścić, przeoczyć
+405=yell=wrzeszczeć, wrzask
+406=inflame=rozpalić, prowokować silne emocje
+407=positive numbers=liczby dodatnie
+408=move=przesunąć, ruszyć
+409=horizontal=horyzontalny
+410=vertical=vertical
+411=entity=jednostka, całość
+412=admission=przyznanie się, przyjęcie, wstęp
+413=bond=więzy
+414=combine=łączyć, połączyć
+415=compound=mieszanina, związek chemiczny
+416=decay=rozkład, rozpad
+417=ionic bond=wiązanie jonowe
+418=bounce off=odbić się
+419=custody=opieka, areszt, nadzór
+420=outstanding=wybitny
+421=ongoing=trwający
+422=exhibit=wystawiać, okazywać, eksponat, wykazywać
+423=stepladder=składana drabina
+424=wipe=wycierać, przetarcie, chusteczka, zetrzeć, wytrzeć
+425=sage=szałwia, mędrzec, mądry
+426=snitch=kapuś, donieść
+427=admixture=domieszka
+428=dopey=odurzony, ogłupiały
+429=devotion=poświęcenie, oddanie
+430=consent=zgoda, pozwolenie, zgadzać się, pozwalać
+431=consensual=za zgodą
+432=indicate=wskazywać, zasygnalizować, wskazywać na, sygnalizować (skręt), włączać kierunkowskaz, wskazać
+433=dispatch=wysyłać, wysyłanie, wysyłka, meldunek, doniesienie, załatwić (szybko), rozkaz, komunikat, pośpiech
+434=assert=postawić na swoim, demonstrować swój autorytet/swoją władzę/swoją niezalerzność, twierdzić, zapewnić, domagać się uznania
+435=via=przez, za pośrednictwem,
+436=pendulum=wahadło
+437=merge=łączyć, scalać, połączyć się, zlać się, kumulować
+438=node=węzeł
+439=eligible=odpowiedni
+440=approximately=mniej więcej
+441=beloved=ukochany, ukochana, ukochane (przymiotnik)
+442=regarding=w sprawie, odnośnie do, co się tyczy
+443=adverse=niekorzystny, przeciwny, wrogi, niepomyślny
+444=pursue=realizować, kontynułować,ścigać, gonić, tropić
+445=sympathetic=współczujący
+446=show off=popisywać się, afiszować się
+447=distress=rozpacz, nieszczęście, strapienie
+448=flatter=pochlebiać
+449=notion=pojęcie, pogląd, idea, myśl
+450=kinda=dosyć
+451=wealthy=bogaty, zamożny
+452=hook=hak, haczyk, zahaczać, przyczepiać, złapać na haczyk, sierpowy (cios), złapać na wędkę
+453=restore=przywrócić
+454=heel=obcas
+455=eventually=w końcu, ostatecznie
+456=mess around=bałaganić
+457=slope=nachylenie, stok, zbocze
+458=intercept=przechwycić, przejąć
+459=slight=niewielki, lekki, nieznaczny, drobny
+460=swap=zamieniać, zmiana, wymiana
+461=participate=brać udział, uczestniczyć
+462=endure=wytrzymać, znieść, przetrwać, wytrwać, trwać
+463=comprehension=zrozumienie, pojmowanie, zasięg
+464=might=móc, moc, potęga, siła
+465=roughly=mniej więcej
+466=released=wydany, zwolniony, wypuszczony
+467=opposed=przeciwny, przeciwstawny
+468=indentation=wcięcie, wycięcie, nacięcie, karb, akapit
+469=respective=poszczególny, indywidualny
+470=magnitude=ogrom, znaczenie, ważność, wielkość
+471=beforehand=wcześniej, z góry, uprzednio
+472=omitted=pominięty
+473=range=zakres
+474=workarounds=obejścia
+475=immutable=niezmienny, stały
+476=asterisk= gwiazdka, odsyłacz, (*)
+477=honeymoon=miesiąc miodowy
+478=exclude=wykluczać, wyłączać, wyeliminować, eliminować
+479=whether=czy
+480=intersection=skrzyżowanie, przecięcie, krzyżowanie się
+481=versatile=wszechstronny, uniwersalny
+482=excess=nadmiar, nadwyżka, przerost, zbytek, przepełnienie, dodatkowy

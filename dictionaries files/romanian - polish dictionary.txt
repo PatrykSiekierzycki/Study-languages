@@ -1,0 +1,265 @@
+1=ajutor=pomoc
+2=aur=złoto
+3=a avea=mieć
+4=avem=mamy
+5=ăsta=ten
+6=băiat=chłopiec
+7=băieți=chłopcy
+8=bătrân=stary
+9=bej=beż
+10=București=Bukareszt
+11=bun=dobry
+12=bună=dobra
+13=bune=dobre (l.m.)
+14=casă=dom
+15=a cânta=śpiewać
+16=ce=co
+17=ceas=zegarek
+18=ceh=Czech
+19=chef=ochota
+20=chelner=kelner
+21=chimie=chemia
+22=China=Chiny
+23=cine=kto
+24=a coborî=wysiadać
+25=codri=lasy
+26=codru=las
+27=copac=drzewo
+28=copaci=drzewa
+29=coș=kosz
+30=dragoste=miłość
+31=duh=duch
+32=dulce=słodki
+33=e=jest
+34=ea=ona
+35=ei=oni
+36=el=on
+37=ele=one
+38=elev=uczeń
+39=era=był, była
+40=erai=byłeś, byłaś
+41=eram=byłem, byłam, byliśmy, byłyśmy
+42=erați=byliście, byłyście
+43=erau=byli, były
+44=est=wschód
+45=este=jest
+46=ești=jesteś
+47=eu=ja
+48=a exagera=przesadzać
+49=examen=egzamin
+50=a face=robić
+51=faci=robisz
+52=fată=dziewczyna
+53=femeie=kobieta
+54=floare=kwiat
+55=fotoliu=fotel
+56=furculiță=widelec
+57=galben=żółty
+58=garaj=garaż
+59=gât=gardło
+60=geam=okno
+61=gem=dżem
+62=ger=mróz
+63=gheață=lód
+64=ghepard=gepard
+65=ghid=przewodnik
+66=ginere=zięć
+67=gras=gruby
+68=haide=chodź, dalej
+69=haideți=chodźcie
+70=hotel=hotel
+71=iepure=zając
+72=a intra=wchodzić
+73=intri=wchodzisz
+74=a iubi=kochać
+75=în=w
+76=între=między
+77=Japonia=Japonia
+78=joc=gra
+79=mamă=matka
+80=mame=matki
+81=mami=mamusia
+82=mașină=samochód
+83=mă cheamă=nazywam się
+84=măr=jabłko
+85=mâine=jutro
+86=meci=mecz
+87=meu=mój
+88=mov=fioletowy
+89=noi=my
+90=ochi=oko
+91=oraș=miasto
+92=pahar=szklanka
+93=pantof=but
+94=pantofi=buty
+95=pix=długopis
+96=Poliția=policja
+97=polonez=Polak
+98=preț=cena
+99=profesor=nauczyciel
+100=profesori=nauczyciele
+101=rău=zły
+102=râu=rzeka
+103=rezervare=rezerwacja
+104=rochie=suknia
+105=România=Rumunia
+106=român=Rumun
+107=româncă=Rumunka
+108=români=Rumuni
+109=rog=proszę
+110=rogi=prosisz
+111=a ruga=prosić
+112=seară=wieczór
+113=sfânt=święty
+114=soare=słońce
+115=sunt=jestem, są
+116=suntem=jesteśmy
+117=sunteți=jesteście
+118=școală=szkoła
+119=și=i
+120=șoc=szok
+121=a ști=wiedzieć
+122=știu=wiem
+123=taxi=taksówka
+124=țară=kraj
+125=țel=cel
+126=a umbla=chodzić
+127=umbli=chodzisz
+128=unchi=wujek
+129=unghi=kąt
+130=unghie=paznokieć
+131=ușă=drzwi
+132=vedere=widokówka
+133=a veni=przychodzić
+134=vii=przychodzisz
+135=vin=wino
+136=a vorbi=mówić
+137=vorbiți=mówicie
+138=zi=dzień
+139=da=tak
+140=nu=nie
+141=merci=dziękuję (nieformalnie)
+142=mulțumesc=dziękuję
+143=poftim=proszę (podając coś, nieformalnie)
+144=poftiți=proszę (podając coś, formalnie)
+145=te rog=proszę (prosząc o coś, nieformalnie)
+146=vă rog=proszę (prosząc o coś, formalnie)
+147=scuze, scuză-mă, pardon=przepraszam (nieformalnie)
+148=bună=cześć (powitanie)
+149=Pe curând=na razie (pożegnanie)
+150=la revedere=do zobaczenia
+151=bine=dobrze
+152=zero=zero
+153=unu (m/n)=jeden
+154=una (f)=jeden
+155=doi (m)=dwa
+156=două (f/n)=dwa
+157=trei=trzy
+158=patru=cztery
+159=cinci=pięć
+160=șase=sześć
+161=șapte=siedem
+162=opt=osiem
+163=nouă=dziewięć
+164=zece=dziesięć
+165=unsprezece=jedenaście
+166=doisprezece (m)=dwanaście
+167=douăsprezece (f/n)=dwanaście
+168=douăzeci=dwadzieścia
+169=douăzeci și unu/una=dwadzieścia jeden
+170=douăzeci și doi/două=dwadzieścia dwa
+171=treizeci=trzydzieści
+172=o sută=sto
+173=două sute=dwieście
+174=o mie=tysiąc
+175=două mii=dwa tysiące
+176=o sută de mii=sto tysięcy
+177=un milion= milion
+178=zi (zile, f)=dzień
+179=luni (f)=poniedziałek
+180=marți (f)=wtorek
+181=miercuri (f)=środa
+182=joi (f)=czwartek
+183=vineri (f)=piątek
+184=sâmbătă (f)=sobota
+185=duminică (f)=niedziela
+186=luni, marți...=w poniedziałek, we wtorek, ... (czynność jednorazowa)
+187=lunea, marțea, miercurea, joia, vinerea, sâmbăta, duminica (formy określone)=w poniedziałki, we wtorki, ... (czynność zwyczajowa)
+188=lună (luni, f)=miesiąc
+189=ianuarie=styczeń
+190=februarie=luty
+191=martie=marzec
+192=aprilie=kwiecień
+193=mai=maj
+194=iunie=czerwiec
+195=iulie=lipiec
+196=august=sierpień
+197=septembrie=wrzesień
+198=octombrie=październik
+199=noiembrie=listopad
+200=decembrie=grudzień
+201=anotimp (anotimpuri, n)=pora roku
+202=primăvară (f)=wiosna
+203=vară (f)=lato
+204=toamnă (f)=jesień
+205=iarnă (f)=zima
+206=an (ani, m)=rok
+207=săptămână (săptămâni, f)=tydzień
+208=oră (ore, f)=godzina
+209=minut (minute, n)=minuta
+210=secundă (secunde, f)=secunda
+211=întotdeauna=zawszwe
+212=în fiecare zi=codziennie
+213=de obicei=zazwyczaj
+214=deseori=często
+215=uneori=czasami
+216=rareori=rzadko
+217=niciodată=nigdy
+218=astăzi/azi=dziś, dzisiaj
+219=ieri=wczoraj
+220=mâine=jutro
+221=anul acesta=w tym roku
+222=anul trecut=w zeszłym roku
+223=anul viitor=w przyszłym roku
+224=luna aceasta=w tym miesiącu
+225=luna trecută=w zeszłym miesiącu
+226=luna viitoare=w przyszlym miesiącu
+227=dimineață (dimineți, f)=ranek
+228=amiază (f), prânz (n)=południe
+229=după-amiază / dupe-masa=po południu
+230=seara=wieczorem
+231=noaptea=w nocy
+232=la miezul nopții=o północy
+233=azi-dimineață=(dziś) rano
+234=azi după-amiază / azi după-masă=(dziś) po południu
+235=deseară=(dziś) wieczorem
+236=ieri-dimineață=wczoraj rano
+237=ieri după-amiază / mâine după-masă=wczoraj po południu
+238=aseară=wczoraj wieczorem
+239=mâine-dimineață=jutro rano
+240=mâine după-amiază / mâine după-masă=jutro po południu
+241=mâine-seară=jutro wieczorem
+242=dată (f)=data
+243=sărbătoare (sărbători, f)=święto
+244=zi (f) de naștere=urodziny
+245=zi (f) onomastică=imieniny
+246=Ziua Națională (1 XII)=Święto Narodowe
+247=Crăciun (n)=Boże Narodzenie
+248=revelion (n)=sylwester
+249=Anul (m) Nou=Nowy Rok
+250=Paști (n pl)=Wielkanoc
+251=vreme (f)/timp (n)=pogoda
+252=soare (m)=słońce
+253=E soare.=Świeci słońce.
+254=vânt (n)=wiatr
+255=nor (nori, m)=chmura
+256=ploaie (f)=deszcz
+257=furtună (f)=burza
+258=a ploua=padać (o deszczu)
+259=Plouă.=Pada (deszcz).
+260=ceață (f)=mgła
+261=zăpadă (f)=śnieg
+262=a ninge=padać (o śniegu)
+263=Ninge=Pada śnieg.
+264=ger (n)=mróz
+265=E ger.=Jest mróz.
