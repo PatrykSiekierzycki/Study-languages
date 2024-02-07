@@ -1,0 +1,940 @@
+1=abiru=oblewać się wodą, brać prysznic
+2=abunai=niebezpieczny
+3=afurika=Afryka
+4=agaru=wchodzić, wspinać się
+5=ageru=dawać
+6=aida=pomiędzy
+7=aisukuriimu=lody
+8=akai=czerwony
+9=akarui=jasny
+10=akeru=otwierać
+11=aki=jesień
+12=amai=słodki
+13=amari=zbyt, raczej nie
+14=ame=deszcz
+15=amerika=Ameryka
+16=amerikajin=Amerykanin, Amerykanka
+17=anata=ty
+18=anatagata=wy
+19=anatatachi=wy
+20=ane=(moja) starsza siostra
+21=ani=(mój) starszy brat
+22=anime=filmy animowane
+23=ano=tamten, tamta, tamto, itp.
+24=anzen-na=bezpieczny, spokojny
+25=aoi=niebieski
+26=apaato=mieszkanie
+27=arau=myć, prać
+28=are=tamto
+29=arigatou=dziękuję
+30=aru=być,znajdować się (dla podmiotów nieożywionych)
+31=arubamu=album
+32=aruku=iść pieszo
+33=asa=rano, ranek
+34=asagohan=śniadanie
+35=asai=płytki
+36=asatte=pojutrze
+37=ashi=noga
+38=ashita=jutro
+39=asobu=bawić się
+40=atama=głowa
+41=atarashii=nowy
+42=atatakai=ciepły
+43=ato-de=potem,później
+44=atsui=gorący (w_dotyku)
+45=atsui=gorący (np. dzień)
+46=au (-ni, -to)=spotykać
+47=ban=wieczór
+48=bangohan=kolacja
+49=bangou=numer
+50=bangumi=program (telewizyjny, radiowy)
+51=-banme=sufiks liczebników porządkowych
+52=baree-booru=siatkówka
+53=basu=autobus
+54=basuketto-booru=koszykówka
+55=basutei=przystanek autobusowy
+56=beddo=łóżko
+57=benkyou=nauka
+58=benkyou-suru=uczyć się
+59=benri-na=wygodny, przydatny, pożyteczny
+60=betonamu=Wietnam
+61=Betonamujin=Wietnamczyk, Wietnamka
+62=bideo=odtwarzacz wideo
+63=biiru=piwo
+64=birudingu=budynek
+65=bokoku=ojczyzna
+66=bokokugo=język ojczysty
+67=boku=ja (męski zaimek osobowy)
+68=bokutou=drewniany miecz
+69=booru=piłka
+70=booshi=czapka, nakrycie głowy
+71=botoru=butelka
+72=bukka=ceny
+73=bunka=kultura
+74=butsubutsu=mamrotanie
+75=butsurigaku=fizyka
+76=byooin=szpital
+77=byooki=choroba, chory
+78=chakai=spotkanie herbaciane
+79=chashitsu=pokój do ceremoni herbacianej
+80=cheko=Czechy
+81=chekojin=Czech, Czeszka
+82=chichi=(mój) tata
+83=chichioya=ojciec
+84=chigau=różnić_się, być innym
+85=chiisai=mały
+86=chikai=bliski
+87=chikaku=w_pobliżu, pobliże
+88=choodo=dokładnie
+89=chokoreeto=czekolada
+90=chotto=trochę, mało
+91=choojo=najstarsza córka
+92=chonan=najstarszy syn
+93=chuugakkou=gimnazjum
+94=chuugakusei=gimnazjalista
+95=chuugoku=Chiny
+96=chuugokujin=Chińczyk
+97=chuuko=używane, stare (rzeczy)
+98=-dai=klasyfikator maszyn
+99=daidokoro=kuchnia
+100=daigaku=uniwersytet, uczelnia, szkoła wyższa
+101=daigakusei=student szkoły wyższej
+102=daijoobu=w porządku, OK
+103=daikirai-na=znienawidzony
+104=daisuki-na=ulubiony
+105=daitai=mniej więcej, około
+106=-dake=tylko
+107=dame=niedobry, źle, nie wolno
+108=dandan=stopniowo
+109=dansei=mężczyzna
+110=dansu=taniec
+111=dare=kto (pytajnik)
+112=dasu=wysyłać
+113=deguchi=wyjście
+114=dekakeru=wyjść, wyruszać
+115=dekiru=móc, potrafić, kończyć
+116=dekoboko=wertepy
+117=densha=pociąg, tramwaj
+118=denwa=telefon
+119=denwa-bangou=numer telefonu
+120=denwa-suru=telefonować
+121=deru=wychodzić
+122=de-wa=w takim razie
+123=de-wa mata=na razie, cześć
+124=doa=drzwi
+125=doboku=inżynieria, prace inżynieryjne
+126=doobutsu=zwierzę
+127=doobutsuen=ogród zoologiczny
+128=doitsu=Niemcy
+129=doitsugo=język niemiecki
+130=doitsujin=Niemiec, Niemka
+131=doko=gdzie (pytajnik)
+132=dokushin=kawaler, panna
+133=doomo sumimasen=przepraszam bardzo
+134=donata=kto, która osoba?
+135=donna=jaki, jaka, jakie (pytajnik)
+136=dono=który, która, które (pytajnik)
+137=doraibu=jazda, wycieczka samochodem, prowadzenie samochodu
+138=dooryou=kolega z pracy
+139=doyoobi=sobota
+140=doozo=proszę, zapraszam
+141=e=obraz(ek), rysunek
+142=eiga=film
+143=eigakan=kino
+144=eigo=język angielski
+145=enjinia=inżynier
+146=enpitsu=ołówek
+147=enryo-suru=krępować się
+148=erabu=wybierać
+149=erebeetaa=winda
+150=fooku=widelec
+151=fuben-na=niewygodny, nieużyteczny
+152=fuufu=małżeństwo, para małżonków
+153=fujin=małżonka
+154=fukai=głęboki
+155=fukei=ojciec i brat
+156=fuku=wycierać
+157=fuku=wiać(o wietrze)
+158=fukuro=torebka
+159=fukuzatsu-na=skomplikowany
+160=-fun=klasyfikator minut
+161=funabin=poczta morska
+162=furansu=Francja
+163=furansugo=język francuski
+164=furansujin=Francuz, Francuzka
+165=furigana=zapis fonetyczny ideogramów
+166=furu=padać (o zjawiskach pogodowych)
+167=furuhon'ya=antykwariat
+168=furui=stary
+169=fushinsetsu-na=niemiły
+170=futatsu=dwa
+171=futoi=gruby
+172=fuyu=zima
+173=gaikoku=zagranica
+174=gaikokugo=język obcy
+175=gaikokujin=obcokrajowiec
+176=gakki=semestr nauki
+177=gakkou=szkoła
+178=gakusei=uczeń, student
+179=gamu=guma do żucia
+180=ganbaru=starać się
+181=gareeji=garaż
+182=gaaru-furendo=dziewczyna, przyjaciółka, narzeczona
+183=geisha=gejsza
+184=gekkyuu=pensja
+185=genki=zdrowie
+186=genki-na=zdrowy
+187=gesui=ścieki
+188=getsuyoobi=poniedziałek
+189=ginkou=bank
+190=gitaa=gitara
+191=go=pięć
+192=gogatsu=maj
+193=gogo=po południu
+194=-goro=sufiks: mniej więcej (do określania czasu)
+195=gorufu=golf (sport)
+196=goshujin=mąż, szanowny małżonek
+197=gozen=przed połódniem
+198=-gurai=około, mniej więcej
+199=ha=ząb
+200=hachi=osiem
+201=hachigatsu=sierpień
+202=hagaki=karta pocztowa
+203=haha=(moja) mama
+204=hahaoya=matka
+205=-hai=klasyfikator pojemności miseczek
+206=hai=tak
+207=hairu=wejść, wchodzić
+208=haisha=dentysta
+209=haiyuu=aktor
+210=hajimaru=zaczynać się
+211=hajime=początek
+212=hajimeru=zaczynać
+213=hajimete=pierwszy raz
+214=hakaru=mierzyć
+215=hako=pudełko
+216=haku=nakładać (buty)
+217=hakubutsukan=muzeum
+218=hamu=szynka
+219=han=połowa
+220=hana=nos
+221=hana=kwiat
+222=hanabi=sztuczne ognie
+223=hanasu=rozmawiać, mówić
+224=hanbun=połowa
+225=hansamu-na=przystojny
+226=hantoshi=pół roku
+227=harau=płacić
+228=haru=wiosna
+229=hashi=japońskie pałeczki do jedzenia
+230=hashiru=biec
+231=hatachi=20 lat
+232=hataraku=pracować
+233=hayai=szybki
+234=hayai=wczesny
+235=hayaku=szybko
+236=hayaku=wcześnie
+237=hen-na=dziwny
+238=heta-na=niewprawny, niezręczny, słaby (w czymś)
+239=heya=pokój, sala
+240=hidari=lewa strona
+241=hidarite=lewa ręka
+242=-hiki=klasyfikator małych zwierząt
+243=hikidashi=szuflada
+244=hikkoshi=przeprowadzka
+245=hikkoshi-suru=przeprowadzać się
+246=hikooki=samolot
+247=hiku=grać (na instrumentach strunowych)
+248=hiku=ciągnąć
+249=hikui=niski
+250=hima=wolny (czas)
+251=hiroi=szeroki
+252=hiru=południe (w południe)
+253=hirugohan=obiad
+254=hito=człowiek
+255=hitori=jedna osoba
+256=hitori-de=sam, samodzielnie
+257=hitotsu=jeden
+258=hitsuyou-na=potrzebny, konieczny
+259=hou=strona, kierunek
+260=homeru=chwalić
+261=-hon=klasyfikator przedmiotów podłużnych
+262=hon=książka
+263=hondana=półka na książki
+264=hontou=prawda
+265=hontou-ni=naprawdę
+266=hon'ya=księgarnia
+267=hoshii=chcę
+268=hosoi=wąski, szczupły
+269=hosu=suszyć
+270=hoteru=hotel
+271=hotondo=prawie
+272=hyaku=sto
+273=hyakuman=milion
+274=ichi=jeden
+275=ichiban=numer jeden, najbardziej
+276=ichigatsu=styczeń
+277=ichiman=dziesięć tysięcy
+278=ichioku=sto milionów
+279=ie=dom
+280=igirisu=Anglia
+281=igirisujin=Anglik, Angielka
+282=ii=dobry
+283=iie=nie
+284=ikebana=sztuka układania kwiatów
+285=ikiru=żyć
+286=iku=iść, jechać
+287=ima=teraz
+288=ima=pokój gościnny
+289=imooto=moja młodsza siostra
+290=inaka=wieś
+291=inu=pies
+292=ippai=pełno
+293=ippun=jedna minuta
+294=irassharu=być, przyjść, pójść
+295=ireru=wkładać
+296=iru=być, znajdować się (dla podmiotów ożywionych)
+297=isha=lekarz
+298=isogashii=zajęty, zapracowany
+299=isogu=spieszyć się
+300=issenman=dziesięć milionów
+301=issho-ni=razem (z)
+302=isu=krzesło
+303=itadaku=otrzymać
+304=itameru=smażyć
+305=itaria=Włochy
+306=itariago=język włoski
+307=itariajin=Włoch, Włoszka
+308=itsu=kiedy (pytajnik)
+309=itsumo=zawsze; nigdy(w negacji)
+310=itsutsu=pięć
+311=iu=mówić, powiedzieć
+312=iya-na=znienawidzony
+313=-ji=godzina, klasyfikator godzin
+314=ji=znak, litera
+315=jidoosha=samochód osobowy
+316=jikan=czas
+317=jimusho=biuro, sekretariat
+318=jisa=różnica czasu
+319=jisho=słownik
+320=jitensha=rower
+321=jitsu-wa=prawdę mówiąc, tak naprawdę
+322=josei=kobieta, dziewczyna
+323=joozu-na=wprawny, dobry (w czymś)
+324=joozu-ni=wprawnie
+325=jugyou=zajęcia, lekcje
+326=juu=dziesięć
+327=juudou=judo
+328=juugatsu=październik
+329=juugo=piętnaście
+330=juuman=sto tysięcy
+331=juuku=dziewiętnaście
+332=juusho=adres
+333=juusu=sok
+334=-ka=partykuła pytajna
+335=kaban=torba
+336=kabaa=pokrywka, przykrywka
+337=kabin=wazon
+338=kaburu=nakładać (na głowę)
+339=kaado=karta
+340=kaeru=zmieniać
+341=kaeru=wracać
+342=kaesu=oddać, zwrócić
+343=kagi=klucz, zamek
+344=-kai=klasyfikator pięter budynków
+345=-kai=klasyfikator częstotliwości
+346=kaimono=zakupy
+347=kaisha=firma
+348=kaishain=pracownik firmy
+349=kaji=pożar
+350=kakaru=trwać
+351=kakeru=zadzwonić
+352=kaku=pisać
+353=kamera=aparat fotograficzny
+354=kami (-no ke)=włosy
+355=kamoku=przedmiot szkolny
+356=kanada=Kanada
+357=kanadajin=Kanadyjczyk, kanadyjka
+358=-kan=klasyfikator czasu
+359=kanai=(moja) żona
+360=kangaeru=zastanawiać się, myśleć
+361=kangofu=pielęgniarka
+362=kanji=znaki pochodzenia chińskiego
+363=kankoku=Korea
+364=kankokujin=Koreańczyk, Koreanka
+365=kanojo=ona
+366=kanojora=one
+367=kanojotachi=one
+368=kantan-na=łatwy, nieskomplikowany, prosty
+369=kanzen-ni=całkowicie
+370=-kara=od... (w okoliczniku czasu i miejsca)
+371=-kara...-made=od...do..
+372=karai=ostry, pikantny
+373=karate=karate
+374=kare=on
+375=karendaa=kalendarz
+376=karera=oni
+377=kariru=pożyczyć (od kogoś)
+378=karui=lekki
+379=kasei=Mars
+380=kashu=piosenkarz, piosenkarka
+381=kasu=pożyczyć (komuś)
+382=kata=osoba
+383=katai=twardy
+384=kau=kupować
+385=kawaii=śliczny, cudowny
+386=kawaru=zmieniać się
+387=kayoobi=wtorek
+388=kazoku=rodzina
+389=keitai-denwa=telefon komórkowy
+390=keeki=ciasto
+391=kekkon=małżeństwo
+392=kekkon-suru=pobrać się, wyjść za mąż, ożenić się
+393=kendou=kendo
+394=kengaku-suru=zwiedzać
+395=kenka-suru=kłócić się
+396=kenkyuu-suru=studiować, badać
+397=kesa=dzisiaj rano (najczęściej w czasie przeszłym)
+398=keshigomu=gumka do ścierania
+399=kesu=gasić, wycierać, kasować
+400=kibishii=wymagający, ostry, surowy (charakter)
+401=kiiroi=żółty
+402=kikoku-suru=wrócic do kraju
+403=kiku=słuchać
+404=kimi=ty
+405=kimitachi=wy
+406=kimono=kimono, tradycyjny ubiór japoński
+407=kindaiteki-na=nowoczesny
+408=kinen=pamiątka
+409=kin'en=zakaz palenia papierosów
+410=kinou=wczoraj
+411=kin'yoobi=piątek
+412=kiosuku=kiosk
+413=kippu=bilet
+414=kirai-na=nielubiany
+415=kirei-na=piękny, czysty
+416=kirei-ni=pięknie, czysto
+417=kirin=żyrafa
+418=kissaten=kawiarnia
+419=kitte=znaczek pocztowy
+420=kitto=na pewno
+421=-ko=klasyfikator przedmiotów małych
+422=ko=dziecko
+423=kobun=literatura klasyczna
+424=koocha=herbata
+425=kodomo=dziecko
+426=kodomotachi=dzieci
+427=kosame=drobny deszcz
+428=kooei=zaszczyt, honor
+429=koinu=szczeniak, mały pies
+430=kooka=inżynier
+431=kooka=efekt
+432=kooka=wysoka cena
+433=kooka=hymn szkolny
+434=kokka=hymn państwowy
+435=koko=tutaj
+436=kookuubin=poczta lotnicza
+437=konban=dziś wieczór
+438=kondo=następnym razem
+439=kondo-no=następny, nadchodzący
+440=koneko=kociak
+441=kongetsu=ten miesiąc, w tym miesiącu
+442=konkai=tym razem, następnym razem
+443=konna=taki, taka, takie (zaimek)
+444=konnichi-wa=dzień dobry
+445=konnyaku=gatunek ziemniaka
+446=kon'yaku-suru=zaréczy się
+447=kono=ten, ta, to (zaimek wskazujący)
+448=konocha=liście na drzewach
+449=konpyuuta=komputer
+450=konshuu=w tym tygodniu
+451=kon'yaku=zaręczyny
+452=kooen=park
+453=kokonotsu=dziewięć
+454=kookoo=liceum
+455=kookoosei=uczeń liceum
+456=kome=ryż (surowe ziarno)
+457=konsaato=koncert
+458=kopii-suru=kopiować, kserować
+459=kore=to (zaimek)
+460=koosui=perfumy
+461=kotchi=tutaj (okolicznik miejsca)
+462=koto=rzecz
+463=kotoba=mowa, język
+464=kootoogakkou=liceum
+465=kotori=mały ptaszek
+466=kotoshi=bierzący rok, w tym roku
+467=ku=dziewięć
+468=kubi=szyja (w pewnych kontekstach: głowa)
+469=kugatsu=wrzesień
+470=kurai=ciemny
+471=kuroi=czarny
+472=kuukou=lotnisko
+473=kurashikku=muzyka klasyczna
+474=kurikaesu=powtarzać
+475=kuru=przychodzić, przyjeżdżać
+476=kuruma=samochód
+477=kutsu=buty
+478=kutsushita=skarpetki
+479=kyanpu=obóz
+480=kyou=dzisiaj
+481=kyoodai=rodzeństwo
+482=kyookai=kościół
+483=kyookasho=podręcznik
+484=kyoomi=zainteresowania
+485=kyooshi=nauczyciel
+486=kyooshitsu=klasa, pomieszczenie do nauki
+487=kyuu=dziewięć
+488=kyuushigai=Stare Miasto
+489=machi=miasto
+490=mada=jeszcze
+491=-made=do...(w okoliczniku czasu i miejsca)
+492=mado=okno
+493=mae=przód, przed
+494=-mai=klasyfikator przedmiotów płaskich
+495=maiasa=codziennie rano
+496=maiban=co wieczór
+497=mainichi=codziennie
+498=maishuu=co tydzień
+499=maitoshi=co rok
+500=maitsuki=co miesiąc
+501=majime-na=poważny, rozsądny, pilny
+502=makeru=przegrać
+503=maku=zawijać
+504=-man=klasyfikator: dziesięć tysięcy
+505=maneejaa=menadżer
+506=manga=komiks
+507=matchi=zapałki
+508=matsu=czekać
+509=matte=poczekaj!
+510=mazui=niesmaczny, niedobry
+511=-me=sufiks liczebników porządkowych
+512=me=oko
+513=megane=okulary
+514=meishi=wizytówka
+515=meeru=mail
+516=mezurashii=wyjątkowy, wspaniały
+517=michi=droga, ulica
+518=midoriiro=zielony
+519=migaku=polerować, myć (zęby)
+520=migi=prawa strona
+521=migite=prawa ręka
+522=mijikai=krótki
+523=mimi=ucho
+524=miru=oglądać, patrzeć
+525=mise=sklep, restauracja itp.
+526=miseru=pokazywać
+527=mittsu=trzy
+528=mizuiro=niebieski kolor
+529=-mo=też
+530=mou=już
+531=mochiron=oczywiście
+532=modan-na=nowoczesny
+533=mokusei=Jupiter
+534=mokuyoobi=czwartek
+535=mokuzou=drewniana konstrukcja, drewniany
+536=morau (-kara, -ni)=dostać, otrzymać (od...)
+537=mori=las
+538=motsu=mieć, trzymać
+539=muda-na=bezuzyteczny
+540=mukaeru=pojechać, przywitać, powitać
+541=mukashi=dawniej, dawno temu
+542=musuko=syn
+543=musukosan=pański szanowny syn
+544=musume=córka
+545=musumesan=pańska szanowna córka
+546=muttsu=sześć
+547=muzukashii=trudny
+548=nagai=długi
+549=nageru=rzucić
+550=naka=środek, centrum
+551=naku=płakać
+552=nakusu=zgubić
+553=nan (lub nani)=co (pytajnik)
+554=nana=siedem
+555=nanatsu=siedem
+556=nanji=która godzina?
+557=naoru=zdrowieć
+558=naosu=naprawiać
+559=-nara=jeśli...
+560=narau=uczyć się
+561=naru (-ni, -ku)=stawać się, robić się...
+562=natsu=lato, latem
+563=neko=kot
+564=-nen=rok, klasyfikator lat
+565=neru=spać, iść spać, zasnąć
+566=nezumi=mysz
+567=ni=dwa
+568=nichiyoobi=niedziela
+569=nido=dwa razy
+570=nigai=gorzki
+571=nigate-na=niedobry, słaby (w czymś)
+572=nigatsu=luty
+573=nigeru=uciekać
+574=nigiyaka-na=hałaśliwy, ruchliwy
+575=nihon=Japonia
+576=nihongo=język Japoński
+577=nihonjin=Japończyk, Japonka
+578=nijuu=dwadzieścia
+579=nijuuichi=dwadzieścia jeden
+580=niku=mięso
+581=nimotsu=bagaż, paczka
+582=-nin=klasyfikator ludzi
+583=ningen=ludzie, ludzkość
+584=niru=gotować
+585=-no=partykuła zaimka dzierżawczego
+586=noboru=wspinać się
+587=nokoru=zostać
+588=nokosu=zostawić
+589=nomu=pić
+590=norikaeru=przesiadać się
+591=noru=wsiadać
+592=nooto=zeszyt
+593=nugu=zdejmować (ubranie)
+594=nusumu=kraść
+595=nuu=szyć
+596=obasan=ciocia
+597=obaasan=babcia
+598=oboeru=pamiętać
+599=ocha=japońska zielona herbata
+600=ochiru=spadać
+601=odoru=tańczyć
+602=oeru=kończyć
+603=ogawa=strumyk
+604=ohayou gozaimasu=dzień dobry (używane tylko rano)
+605=oishii=smaczny
+606=ojisan=wujek
+607=ojiisan=dziadek
+608=okane=pieniądze
+609=okaasan=mama
+610=okashi=ciastka
+611=okashii=dziwny, śmieszny
+612=okiru=budzić się, wstawać
+613=ookii=duży
+614=okoru=gniewać się, złościć się
+615=okosan=dziecko (grzecznie o czyimś dziecku)
+616=okosu=obudzić (kogoś)
+617=-oku=klasyfikator: sto milionów
+618=oku=kłaść, położyć
+619=okuru=wysyłać
+620=okusan=żona, szanowna małżonka
+621=okyakusan=gość, klient
+622=omiyage=prezent
+623=oomizu=powódź
+624=omocha=zabawka
+625=omoi=ciężki
+626=omoidasu=przypomnieć sobie
+627=omoide=wspomnienie
+628=omoshiroi=ciekawy, niezwykły
+629=omou=myśleć, sądzić, uważać
+630=onaji=taki sam
+631=onaka=brzuch, żołądek
+632=oneesan=starsza siostra
+633=ongaku=muzyka
+634=oniisan==starszy brat
+635=onna-no ko=dziewczyna, dziewczynka
+636=oranda=Holandia
+637=orandajin=Holender, Holenderka
+638=ore=ja (zaimek męski)
+639=oriru=(-o)=wysiadać (z)
+640=oru=być (czasownik skromny)
+641=oru=łamać, zginać
+642=osara=talerz
+643=oshieru=uczyć, powiedzieć, poinformować
+644=osoi=powolny, późny
+645=osoku=późno
+646=osu=pchać
+647=otearai=toaleta, łazienka
+648=otona=dorosły człowiek
+649=otoosan=tata
+650=otoko-no ko=chłopiec, chłopczyk
+651=ototoi=przedwczoraj
+652=otto=(mój) mąż
+653=owaru=kończyć się
+654=oyogu=pływać
+655=pan=chleb
+656=panda=niedźwiedź panda
+657=pasokon=komputer osobisty, PC
+658=paatii=przyjęcie
+659=pen=długopis
+660=perapera=płynnie (mówić)
+661=piano=fortepian
+662=piiman=papryka
+663=poketto=kieszeń
+664=poorando=Polska
+665=poorandogo=język polski
+666=poorandojin=Polak, Polka
+667=purezento=prezent
+668=purintaa=drukarka
+669=puuru=basen
+670=rainen=przyszły rok, w przyszłym roku
+671=raion=lew
+672=raishuu=przyszły tydzień, w przyszłym tygodniu
+673=raisu=ryż
+674=rajio=radio
+675=ranchi=lunch
+676=ranpu=lampa
+677=rekishi=historia
+678=rekoodo=płyta
+679=renraku-suru=kontaktować się, dzwonić
+680=renshuu-suru=ćwiczyć, praktykować
+681=resutoran=restauracja
+682=ribingu=pokój gościnny
+683=ringo=jabłko
+684=ringu=krąg, pierścionek
+685=roku=sześć
+686=rokugatsu=czerwiec
+687=ryokou=podróż
+688=ryokou-suru=podróżować
+689=ryoori=potrawa, danie
+690=ryooshin=rodzice
+691=ryuugaku=stypendium naukowe
+692=ryuugaku-suru=wyjechać na stypendium
+693=ryuugakusei=stypendysta
+694=sabishii=samotny, smutny
+695=sagasu=szukać
+696=-sai=klasyfikator wieku
+697=saifu=portfel
+698=saigo-ni=na zakończenie, na końcu
+699=saikin=ostatnio
+700=sakana=ryba
+701=sake=sake
+702=saki-ni=najpierw
+703=sakkaa=piłka nożna
+704=saku=kwitnąć
+705=sakubun=wypracowanie
+706=samui=zimny
+707=san=trzy
+708=sandoitchi=kanapka
+709=sangatsu=marzec
+710=sanpo=spacer
+711=sanpo-suru=spacerawać
+712=sarainen=za dwa lata
+713=saraishuu=za dwa tygodnie
+714=-satsu=klasyfikator publikacji
+715=se=wzrost
+716=seibutsugaku=biologia
+717=seiji=polityka
+718=seikatsu=życie codzienne
+719=seinengappi=data urodzenia
+720=seito=uczeń
+721=sekken=mydło
+722=semai=wąski, ciasny
+723=-sen=tysiąc
+724=sen'en=tysiąc jenów
+725=sengetsu=w zeszłym miesiącu
+726=senmonka=specjalista
+727=sennen=tysiąc lat
+728=senpai=starszy kolega z pracy lub szkoły
+729=sensei=nauczyciel, mistrz, lekarz, prawnik
+730=senshuu=w zeszłym tygodniu
+731=sentaku-suru=prać
+732=setsumei-suru=wyjaśniać
+733=shaberu=rozmawiać, gadać
+734=shachou=dyrektor firmy
+735=shashin=zdjęcie
+736=shatsu=koszula
+737=shi=cztery
+738=shiasatte=pojutrze
+739=shichi=siedem
+740=shichigatsu=lipiec
+741=shigatsu=kwiecień
+742=shigoto=praca
+743=shigoto-suru=pracować
+744=shikaru=karać
+745=shiken=egzamin
+746=shimeru=zamknąć
+747=shinbun=gazeta
+748=shinkansen=super szybka kolejka japońska
+749=shinnyuusei=nowy uczeń, student
+750=shinpai-suru=martwić się
+751=shinsen-na=świeży
+752=shinsetsu-na=przyjacielski, miły, uczynny
+753=shinsetsu-ni=serdecznie
+754=shinsha=nowy samochód
+755=shinshitsu=sypialnia
+756=shinu=umierać
+757=shiraberu=sprawdzać
+758=shiriai=znajomy, znajoma
+759=shiroi=biały
+760=shiru=znać, wiedzieć
+761=shita=spód
+762=shizuka-na=spokojny, cichy
+763=shizuka-ni=cicho
+764=shoogakkou==szkoła podstawowa
+765=shoogakusei=uczeń szkoły podstawowej
+766=shookai-suru=przedstawiać
+767=shoorai=przyszłość, w przyszłości
+768=shootaijou=zaproczenie
+769=shootai-suru=zaprosić
+770=shujin=(mój) mąż
+771=shukudai=praca do domu
+772=shumi=hobby, zainteresowania
+773=shuumatsu=koniec tygodnia, pod koniec tygodnia
+774=soba=obok
+775=sou desu-ka=dosł.: ach, tak?
+776=sooji-suru=sprzątać
+777=-soku=klasyfikator przedmiotów parzystych
+778=sonna-ni=aż tak bardzo nie (w zdaniach zaprzeczonych)
+779=sono=ten, ta, to (zaimek wskazujący)
+780=sore=to (zaimek)
+781=sore-kara=a potem, następnie
+782=sorosoro=niebawem
+783=soru=golić
+784=soshite=potem, poza tym
+785=soto=na zewnątrz
+786=sotsugyou-suru=ukończyc uczelnię, szkołę
+787=subarashii=wspaniały
+788=subete=całkowicie
+789=suugaku=matematyka
+790=sugu-ni=natychmiast, od razu
+791=suiei=pływanie
+792=suiyoobi=środa
+793=sukeeto=łyżwiarstwo
+794=sukii=narty, narciarstwo
+795=suki-na=lubiany
+796=sukoshi=trochę
+797=sukuuru=szkoła
+798=sumou=sumo
+799=sumu (-ni)=mieszkać
+800=suugaku=matematykasuupaa=supermarket
+801=Supein=Hiszpania
+802=Supeingo=język hiszpański
+803=Supeinjin=Hiszpan, Hiszpanka
+804=suru=robić
+805=suteki-na=piękny
+806=suteru=wyrzucić
+807=suwaru=siadać
+808=suzushii=chłodny, wietrzny
+809=suu=palić (papierosy), wsysać
+810=tabako=papierosy
+811=tabemono=żywność
+812=taberu=jeść
+813=tabun=chyba, prawdopodobnie
+814=taihen=strasznie, bardzo
+815=taihen-na=straszny, okropny
+816=taisetsu-na=wartościowy ważny, drogocenny
+817=taishikan=ambasada
+818=takai=wysoki
+819=takai=drogi
+820=takkyuu=tenis stołowy
+821=takusan=dużo
+822=takushii=taksówka
+823=tama-ni=rzadko
+824=tanjoobi=dzień urodziń
+825=tanoshii=zabawny, wesoły
+826=tanoshiku=radośnie
+827=tatemono=budynek
+828=tatsu=stać
+829=tearai=toaleta, łazienka
+830=teeburu=stół
+831=tegami=list
+832=tenisu=tenis
+833=tenki=pogoda
+834=terebi=telewizor
+835=tetsudau=pomagać
+836=tobu=latać
+837=-tou=klasyfikator dużych zwierząt
+838=tou=dziesięć
+839=tooi=odległy, daleko
+840=tokei=zegarek
+841=toki=czas, gdy
+842=tokidoki=czasami
+843=tokoro=miejsce
+844=tokui-na=wprawny, dobry (w czymś)
+845=tookyou=Tokio
+846=tomaru (-ni)=zatrzymać się na nocleg
+847=tomaru=zatrzymać się
+848=tomeru=zatrzymać
+849=tomodachi=kolega, koleżanka
+850=tonari=obok, przy
+851=tonton=puk, puk
+852=toshokan=biblioteka
+853=toru=wziąć, brać
+854=toru=robić (zdjęcie)
+855=toosu=przepuszczać, wpuszczać
+856=totemo=bardzo
+857=tsukareru=zmęczyć się
+858=tsukau=używać
+859=tsukeru=włączać, doczepiać
+860=tsuku=dotrzeć, dojechać
+861=tsukue=stół
+862=tsukuru=tworzyć, robić
+863=tsuma=(moja) żona
+864=tsumaranai=nudny
+865=tsumetai=zimny (w dotyku)
+866=tsureru=zaprowadzić
+867=tsuru=łowić ryby
+868=tsutomeru (-ni)=być zatrudnionym
+869=tsuuyaku suru=tłumaczyć
+870=tsuyoi=silny
+871=uchi=dom
+872=uchuu=kosmos, wszechświat
+873=ue=wierzch
+874=ugoku=ruszać się
+875=umai=wprawny, dobry (w czymś)
+876=umareru=być urodzonym
+877=umi=morze
+878=umu=urodzić
+879=unten-menkyo=prawo jazdy
+880=untenshu=kierowca
+881=unten-suru=prowadzić, kierować
+882=ureshii=zadowolony
+883=uru=sprzedawać
+884=ushi=krowa
+885=ushiro=tył
+886=uso=kłamstwo
+887=uta=piosenka
+888=utau=śpiewać
+889=utsukushii=piękny
+890=wakai=młody
+891=wakaru=rozumieć
+892=warau=śmiać się
+893=wareru=stłuc się
+894=waru=stłuc
+895=warui=zły
+896=warushawa=Warszawa
+897=wasureru=zapomnieć
+898=watakushi=ja (oficialnie)
+899=wataru=przechodzić (np. przez ulicę)
+900=watashi=ja
+901=watashitachi=my
+902=watasu=przekazać, wręczyć
+903=-(w)o=partykuła dopełnienia
+904=yaku=piec, upiec
+905=yakyuu=baseball
+906=yameru (-o)=rezygnować (z)
+907=yamu=przestawać padać (o deszczu)
+908=yane=dach
+909=yasashii=miły
+910=yasashii=łatwy
+911=yasui=tani
+912=yasuku=tanio
+913=yasumi=odpoczynek, wakacje
+914=yasumu=odpoczywać, mieć wolne
+915=yattsu=osiem
+916=yawarakai=miękki
+917=yobu=wołać
+918=yoi=dobry
+919=yoku=często, dużo, dobrze
+920=yomu=czytać
+921=yon=cztery
+922=yoru=wieczór, wieczorem
+923=yooroppa=Europa
+924=yotto=jacht, żeglarstwo
+925=yottsu=cztery
+926=yoyaku=rezerwacja
+927=yoyaku-suru=rezerwować
+928=yubiwa=pierścionek, obrączka
+929=yuubinkyoku=poczta
+930=yuujin=przyjaciel
+931=yuki=śnieg
+932=yukkuri=powoli
+933=yuumei-na=znany, sławny
+934=zangyou=praca po godzinach
+935=zangyou-suru=pracować po godzinach
+936=zasshi=czasopismo
+937=zenbu=wszystko
+938=zenzen=wcale, zupełnie
+939=zou=słoń
+940=zutto=ciągle
