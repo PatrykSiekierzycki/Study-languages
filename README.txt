@@ -62,9 +62,9 @@ Version: 2.0
 Version 2.0 contain everything from version 1.0 and added options.
 
 Changelog:
-	1. Get rid of bugs from version 1.0.
-	2. More protected files openings.
-	3. Password is now hashed.
+	1. Bugs from version 1.0 was removed.
+	2. Files openings are more protected.
+	3. Password is now hashed and is not saved on local computer in readable form.
 	4. Zip file contain instalator and .exe file for run program.
 
 How install the program:
